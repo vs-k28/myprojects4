@@ -19,14 +19,14 @@ Description :  Counter that progressively increases values to specified counts w
 
 ![screenshot](images/IncrementCounter.png)
 
-Demo : Watch the demo video on [YouTube]().
+Demo : Watch the demo video on [YouTube](https://youtu.be/WmLqG3NHXMg).
 
 #### Project 4 : Soundboard
 Description :  Soundboard interface featuring various sound effect options, triggering playback upon corresponding button clicks.
 
 ![screenshot](images/soundboard.png)
 
-Demo : Watch the demo video on [YouTube]().
+Demo : Watch the demo video on [YouTube](https://youtu.be/k_xQPrDMKnY).
 
 ## Acknowledgement
 
